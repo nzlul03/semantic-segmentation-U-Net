@@ -9,10 +9,10 @@ U-Net
 ![image](https://user-images.githubusercontent.com/54148951/182014895-2a765ed0-4546-4d3b-bf16-b3f15d6c5db7.png)
 
 ## Result
-** Training and Validation (Accuracy and Loss)
+### Training and Validation (Accuracy and Loss)
 ![image](https://user-images.githubusercontent.com/54148951/182014920-e69819b0-c6f1-4e13-a08c-a21a1253a304.png)
 
-** Plot IoU
+### Plot IoU
 ![image](https://user-images.githubusercontent.com/54148951/182014931-2f3a060e-9144-4025-97ab-50dba52eb536.png)
 
 
